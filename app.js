@@ -192,7 +192,7 @@ if (entree == "salad") {
 }else if(entree == "oeufs"){
   var K = [];
   for (var i = 0; i < L.length; i++) {
-    if (L[i].type == "Oeufs") {
+    if (L[i].type == "Oeuf") {
       K.push(L[i]);
     }
   }
