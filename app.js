@@ -196,6 +196,7 @@ if (entree == "salad") {
       K.push(L[i]);
     }
   }
+  var x = random(K);
   document.getElementById("name-result").innerHTML = x.name;
   document.getElementById("time-result").innerHTML = 'Temps de preparation: ' + x.time;
   document.getElementById("recipe").href = x.recipe;
