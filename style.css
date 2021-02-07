@@ -12,6 +12,9 @@ body{
     width: 100%;
 }
 
+.slider2 {
+  margin-top: 8%;
+}
 
 /*ENTREE STYLE*/
 
@@ -294,4 +297,9 @@ input[type="text"]{font: 15px/24px "Lato", Arial, sans-serif; color: #333; width
 .styletext {
     color: #3D3838;
     font-weight: 700;
+}
+
+.entry {
+  background-color: #A4F2C5;
+  width: 80vh;
 }
